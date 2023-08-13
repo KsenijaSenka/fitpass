@@ -27,3 +27,17 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+11.08.2023.docx
+
+*.xml
+
+*.json
+
+fitness.*
+
+fitpass.*
+
+*.env
+
+Dockerfile
